@@ -1,0 +1,4 @@
+/home/kibestevie/crud-app/crudapp/src/main/java/com/crud_app/serverlet/UserServlet.java
+/home/kibestevie/crud-app/crudapp/src/main/java/com/crud_app/model/User.java
+/home/kibestevie/crud-app/crudapp/src/main/java/com/crud_app/dao/UserDAO.java
+/home/kibestevie/crud-app/crudapp/src/main/java/com/crud_app/util/DBConnection.java
